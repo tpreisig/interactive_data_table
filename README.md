@@ -1,1 +1,1 @@
-# interactive_data_table
+# interactive-data-table
